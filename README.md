@@ -2,4 +2,3 @@
 
 Dashboard Link - https://github.com/AshwinD24/population-analysis/blob/main/Population%20analysis.pbix
 Data Link -  https://github.com/AshwinD24/population-analysis/blob/main/world_population.csv
-Dashboard Image - ![population dashboard](https://github.com/user-attachments/assets/7e5a1994-a2e1-4853-9743-61cf9fd3bdfc)
